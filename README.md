@@ -43,9 +43,9 @@
 
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="YOUR-USERNAME" />
+  &nbsp;<img align="center" src="https://github-readme-stats-opal-iota-47.vercel.app/api?username=YOUR-USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="Jays-Network" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&locale=en&theme=tokyonight" alt="YOUR-USERNAME" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&locale=en&theme=tokyonight" alt="Jays-Network" />
 </p>
 
 <h2 align="center">Connect with me</h2>
@@ -57,9 +57,9 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR-TWITTER-USERNAME" height="30" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/YOUR-USER-ID/YOUR-USERNAME" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="YOUR-USERNAME" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Jays-Network" height="30" width="40" />
     </a>
     <a href="mailto:youremail@example.com">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Your Email" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="jullian@jays-network.com" height="30" width="40" />
     </a>
 </p>
