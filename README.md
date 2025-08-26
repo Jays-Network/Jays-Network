@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amlrZ2tja3N2NTV0cmZ4bGt3bGIxOWt5cmhxcHo4bmNmOTg2dGZ4diZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Lh4VwX86JlQn6QlNsG/giphy.gif" width="100" />
 </p>
 <h1 align="center">
   Hey there, I'm Jullian! 
@@ -50,16 +50,15 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="YOUR-LINKEDIN-USERNAME" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR-TWITTER-USERNAME" height="30" width="40" />
-    </a>
-    <a href="https://stackoverflow.com/users/YOUR-USER-ID/YOUR-USERNAME" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Jays-Network" height="30" width="40" />
-    </a>
-    <a href="mailto:youremail@example.com">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="jullian@jays-network.com" height="30" width="40" />
-    </a>
+    
+  </a>
+  <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR-TWITTER-USERNAME" height="40" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/YOUR-USER-ID/YOUR-USERNAME" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Jays-Network" height="40" width="40" />
+  </a>
+  <a href="mailto:youremail@example.com">
+      <img align="center" src="https://cdn-icons-png.flaticon.com/128/6806/6806987.png" alt="jullian@jays-network.com" height="40" width="40" />
+  </a>
 </p>
