@@ -43,9 +43,9 @@
 
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats-opal-iota-47.vercel.app/api?username=YOUR-USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="Jays-Network" />
+  &nbsp;<img align="center" src="https://github-readme-stats-opal-iota-47.vercel.app/api?username=Jays-Network&show_icons=true&locale=en&theme=tokyonight" alt="Jays-Network" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&locale=en&theme=tokyonight" alt="Jays-Network" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jays-Network&layout=compact&locale=en&theme=tokyonight" alt="Jays-Network" />
 </p>
 
 <h2 align="center">Connect with me</h2>
