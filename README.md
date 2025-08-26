@@ -53,7 +53,7 @@
     
   </a>
   <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YOUR-TWITTER-USERNAME" height="40" width="40" />
+      <img align="center" src="https://simpleicons.org/icons/x.svg" alt="YOUR-TWITTER-USERNAME" height="40" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/YOUR-USER-ID/YOUR-USERNAME" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Jays-Network" height="40" width="40" />
