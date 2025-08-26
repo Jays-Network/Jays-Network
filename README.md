@@ -37,7 +37,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="40" height="40"/> 
     </a>
     <a href="https://yaml.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/yaml/yaml-original.svg" alt="yaml" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/128/9791/9791153.png" alt="yaml" width="40" height="40"/>
     </a>
 </p>
 
